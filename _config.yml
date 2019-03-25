@@ -16,7 +16,7 @@
 title: Zihao's Homepage
 email: wangzihao820@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The most fruitful areas for the growth of the sciences were those which had been neglected as a no-man's land between the various established fields. 
+  The most fruitful areas for the growth of the sciences were those which had been neglected as a no-man's land between the various established fields.
   -- Norbert Wiener, 1948
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -27,6 +27,7 @@ github_username:  zihao-wang
 markdown: kramdown
 theme: minima
 # theme: just-the-docs
+# remote_theme: wild-flame/jekyll-simple
 plugins:
   - jekyll-feed
 
