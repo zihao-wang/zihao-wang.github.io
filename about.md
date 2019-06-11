@@ -13,7 +13,7 @@ I am not a traditional CS guy, my undergraduate background comes form mathematic
 
 - **2017.09 - Now** M. Phil, Department of Computer Science and Technology, Tsinghua University
 - **2014.09 - 2018.06** B. Sc., Department of Mathematical Science, Tsinghua University
-- **2013.09 - 2017.06** B. Eng. (megna superm), Department of Energy and Power Engineering, Tsinghua University
+- **2013.09 - 2017.06** B. Eng. (*magna cum laude*), Department of Energy and Power Engineering, Tsinghua University
 
 My research is focused on natural language processing and generative models. Also I have many close collaborators from diverge fields such as applied math, mechanical and chemical engineering. I believe that data and models revealing the underlining rules will help people to understand the world.
 
@@ -35,5 +35,5 @@ Recently, I care about three things
 
 <!-- [jekyll-organization]: https://github.com/jekyll -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3MjM1MjMyXX0=
+eyJoaXN0b3J5IjpbLTk4NDY2MzIwMl19
 -->
