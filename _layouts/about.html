@@ -23,8 +23,8 @@ layout: default
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
               {% endif %}
 
-              {% include figure.html 
-              path=profile_image_path 
+              {% include figure.html
+              path=profile_image_path
               class=profile_image_class
               alt=page.profile.image -%}
             {% endif -%}
@@ -58,7 +58,7 @@ layout: default
             <div class="contact-note">
               {{ site.contact_note }}
             </div>
-            
+            <div style="max-width:100px;margin-left:auto;margin-right:auto"><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wDr6qjwuedZDvNgxhG3kW_MSR0CfQlB-uVMbMpAETVs"></script></div>
           </div>
           {%- endif %}
         </article>

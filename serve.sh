@@ -1,0 +1,1 @@
+bundle exec jekyll serve -d ../zihao-wang.github.io/ --incremental
