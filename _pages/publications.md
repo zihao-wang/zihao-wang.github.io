@@ -1,24 +1,37 @@
 ---
 layout: page
 permalink: /Publications/
-title: Publications
+title: Publications (by topics)
 description:
-years: [2022,2021,2020,2019,2018,2017]
-pyears: [2022,2020]
+topics: ["otaa", "krr", "ml"]
+otaa-years: [2022, 2020]
+krr-years: [2022, 2021]
+ml-years: [2022, 2021, 2020, 2019, 2018]
 nav: true
 ---
 
+<p> View in the <a href="/Publications-year/">chronological order</a> </p>
+
 <div class="publications">
-<h2>Peer Reviewed</h2>
-{% for y in page.years %}
+
+<h2>Knowledge representation and reasoning</h2>
+{% for y in page.krr-years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+  {% bibliography -f krr -q @*[year={{y}}]* %}
 {% endfor %}
 
-<h2>Preprints</h2>
-{% for y in page.pyears %}
+
+<h2>Optimal transport algorithms and applications</h2>
+{% for y in page.otaa-years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f preprint -q @*[year={{y}}]* %}
+  {% bibliography -f otaa -q @*[year={{y}}]* %}
+{% endfor %}
+
+
+<h2>Machine learning topics and applications</h2>
+{% for y in page.ml-years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f ml -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>

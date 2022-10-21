@@ -1,1 +1,1 @@
-bundle exec jekyll serve -d ../zihao-wang.github.io/ --incremental
+bundle exec jekyll serve -d ./_site --incremental
