@@ -26,4 +26,4 @@ Zihao Wang is a Ph.D. student from [CSE department](https://cse.hkust.edu.hk/), 
 - Machine Learning Phenomenons.
 
 ## Academic Services
-- PC member: ACL 2023; CVPR 2023; EMNLP 2021, 2022; KDD 2023
+- Conference Reviewer: ACL 2023; CVPR 2023; EMNLP 2021, 2022; KDD 2023
