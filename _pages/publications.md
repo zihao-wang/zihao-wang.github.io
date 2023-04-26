@@ -12,7 +12,7 @@ nav: true
 
 View by topics
 - <a href="#krr">Knowledge representation and reasoning</a>
-- <a href="#ml">Machine learning topic and applications</a>
+- <a href="#ml">Machine learning</a>
 - <a href="#otaa">Optimal transport algorithms and applications</a>
 
 <p> Or view in the <a href="/Publications-year/">chronological order</a> </p>

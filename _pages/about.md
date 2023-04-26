@@ -20,8 +20,8 @@ Zihao Wang is a Ph.D. student from [CSE department](https://cse.hkust.edu.hk/), 
 
 ## Research Interests
 - Logical Queries on Knowledge Graphs.
+- Machine Learning.
 - Optimal Transport Algorithms and Application.
-- Machine Learning Phenomenons.
 
 ## Academic Services
 - Conference Reviewer: ACL 2023; CVPR 2023; EMNLP 2021, 2022; KDD 2023, NeurIPS 2023
