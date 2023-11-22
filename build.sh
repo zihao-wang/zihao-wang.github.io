@@ -1,1 +1,0 @@
-bundle exec jekyll build -d ../zihao-wang.github.io/
