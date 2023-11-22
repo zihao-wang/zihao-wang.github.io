@@ -1,26 +1,101 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: mypic.jpeg
+  # address: University Center 101, HKUST, Clear Water Bay
+  more_info: Room 1111, Thomas M. Siebel Center for Computer Science, UIUC.
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Bibliography
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am Zihao Wang （王子豪）, a Ph.D. candidate from [CSE department](https://cse.hkust.edu.hk/), [HKUST](https://hkust.edu.hk/) since Sept. 2020. My advisor is [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). I obtained my master's degree in [Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) in 2020 with [Prof. Yong Zhang](https://dagege.github.io/), my primary bachelor's degree in [Energy and Power Engineering](https://www.depe.tsinghua.edu.cn/depeen/) in 2017, and my secondary bachelor's degree in [Pure and Applied Mathematics](https://math.tsinghua.edu.cn) in 2018 with [Prof. Hao Wu](https://haowu1983.github.io), all from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am visiting the IDEA Lab @ UIUC since Aug. 2023 to Jan. 2024, under the supervision of [Prof. Hanghang Tong](http://tonghanghang.org/).
+
+I am looking for postdoc opportunities.
+
+<br/><br/>
+
+---
+
+## Research interests
+
+The general goal of my research is to **reason** with **data**.
+
+#### Ph.D study: first-order reasoning on graphs
+During my PhD, I study graph problems justified by the first-order language.
+
+$$(\text{Reason}, \text{Data}) = (\text{First-order language}, \text{Graph})$$
+
+My work includes:
+- On the language aspect, I build empirical datasets and benchmarks to cover the Existential First Order (EFO) [NeurIPS'21, arXiv:2304.07063, arXiv:2307.13701]
+- On the model aspect, I build deep learning and representation learning methods to answer first order queries [NAACL'22, ACL'23, ICLR'23]
+
+#### Natural language reasoning
+My research work also involves reasoning with natural languages, which is beyond the first order.
+
+$$(\text{Reason}, \text{Data}) = (\text{Natural language}, \text{World knowledge})$$
+
+My research can by roughly seperated knowledge representation and reasoning
+
+- World knowledge representation: Commonsense knowledge representation [EMNLP'22a]
+- World knowledge reasoning: Neurosymbolic reasoning for natural language query[EMNLP'22b]
+
+✨ My recent interest includes the reasoning capability of large language models. (arXiv:2311.07076)
+
+#### Machine learning as prerdicate modeling
+I frame the machine learning tasks as a single predicate $$ \text{Prediction}(\text{Input}, \text{Output}) $$
+
+$$(\text{Reason}, \text{Data}) = (\text{Single Predicate}, \text{Multimodal data})$$
+
+<details open>
+  <summary> Shallow reasoning by modeling predicates (below the first order) </summary>
+  ✨ My recent interest focuses on modeling of molecule graphs. (arXiv:2310.03152)
+  <div style="margin-left: 40px">
+    <details>
+    <summary>The predicate <ins> IsLabelOf </ins> (supervised learning)</summary>
+    <ul>
+      <li>Understand deep learning tricks [arXiv:2010.12648]</li>
+      <li>Design neural heuristics for application [AJODO'23]</li>
+      <li>Compressing deep neural networks [ICML'23, ...]</li>
+    </ul>
+    </details>
+    <details>
+      <summary>The predicate <ins> IsLatentCodeOf </ins> (unsupervised learning)</summary>
+    <ul>
+      <li>Understand the variational auto encoder [NeurIPS'22]</li>
+      <li>Modeling complex encoding/decoding process [VTC'21]</li>
+      <li>Let learning help hardware design [ICCT'21]</li>
+    </ul>
+    </details>
+    <details>
+      <summary>The predicate <ins> IsSameDistribution </ins> (optimal transport)</summary>
+    <ul>
+      <li>Efficient algorithms [JSC'23,CSIAM-AM'23,CMS'22]</li>
+      <li>Application to word vectors [ACL'20, EMNLP'20, COLING'22]</li>
+      <li>Application to cross-domain recommendation [CIKM'22]</li>
+    </ul>
+    </details>
+  </div>
+</details>
+
+<br/><br/>
+
+## Academic services
+- Conference Reviewer:
+  CVPR 2023; EMNLP 2021, 2022, 2023; ACL 2023; KDD 2023; CIKM 2023; NeurIPS 2023; NeurIPS dataset & benchmark 2023; ICLR 2024; AAAI 2024
+- Journal Reviewer: TNNLS
+
+<br/><br/>
+
