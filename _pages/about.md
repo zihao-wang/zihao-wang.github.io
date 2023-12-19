@@ -35,7 +35,7 @@ The general goal of my research is to **reason** with **data**.
 
 {% include figure.html path="assets/img/research-overview.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
-#### First-order reasoning on graphs
+#### First-order reasoning on KG
 During my PhD, I study graph problems justified by the first-order language.
 
 $$(\text{Reason}, \text{Data}) = (\text{First-order language}, \text{Graph})$$
