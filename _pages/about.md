@@ -31,7 +31,7 @@ I am looking for postdoc opportunities.
 
 ## Research interests
 
-The general goal of my research is to **reason** with **data**.
+The general theme of my research is **reasoning** with **data**, with special interests on *logic on graphs*, *language models*, *optimal transport*, and *AI for sciences*.
 
 {% include figure.html path="assets/img/research-overview.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
