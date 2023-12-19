@@ -33,7 +33,9 @@ I am looking for postdoc opportunities.
 
 The general goal of my research is to **reason** with **data**.
 
-#### Ph.D study: first-order reasoning on graphs
+{% include figure.html path="assets/img/research-overview.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+#### First-order reasoning on graphs
 During my PhD, I study graph problems justified by the first-order language.
 
 $$(\text{Reason}, \text{Data}) = (\text{First-order language}, \text{Graph})$$
@@ -42,7 +44,7 @@ My work includes:
 - On the language aspect, I build empirical datasets and benchmarks to cover the Existential First Order (EFO) [NeurIPS'21, arXiv:2304.07063, arXiv:2307.13701]
 - On the model aspect, I build deep learning and representation learning methods to answer first order queries [NAACL'22, ACL'23, ICLR'23]
 
-#### Natural language reasoning
+#### Natural language reasoning (beyond the first order language)
 My research work also involves reasoning with natural languages, which is beyond the first order.
 
 $$(\text{Reason}, \text{Data}) = (\text{Natural language}, \text{World knowledge})$$
@@ -50,17 +52,17 @@ $$(\text{Reason}, \text{Data}) = (\text{Natural language}, \text{World knowledge
 My research can by roughly seperated knowledge representation and reasoning
 
 - World knowledge representation: Commonsense knowledge representation [EMNLP'22a]
-- World knowledge reasoning: Neurosymbolic reasoning for natural language query[EMNLP'22b]
+- World knowledge reasoning: Neurosymbolic reasoning for natural language query [EMNLP'22b]
 
-✨ My recent interest includes the reasoning capability of large language models. (arXiv:2311.07076)
+✨ My recent interest includes the reasoning capability of multi-agent LLMs. (arXiv:2311.07076)
 
-#### Machine learning as prerdicate modeling
+#### Data modeling (within the first order language)
 I frame the machine learning tasks as a single predicate $$ \text{Prediction}(\text{Input}, \text{Output}) $$
 
 $$(\text{Reason}, \text{Data}) = (\text{Single Predicate}, \text{Multimodal data})$$
 
 <details open>
-  <summary> Shallow reasoning by modeling predicates (below the first order) </summary>
+  <summary> Shallow reasoning by data modeling </summary>
   ✨ My recent interest focuses on modeling of molecule graphs. (arXiv:2310.03152)
   <div style="margin-left: 40px">
     <details>
@@ -68,7 +70,7 @@ $$(\text{Reason}, \text{Data}) = (\text{Single Predicate}, \text{Multimodal data
     <ul>
       <li>Understand deep learning tricks [arXiv:2010.12648]</li>
       <li>Design neural heuristics for application [AJODO'23]</li>
-      <li>Compressing deep neural networks [ICML'23, ...]</li>
+      <li>Compressing deep neural networks [ICML'23]</li>
     </ul>
     </details>
     <details>
