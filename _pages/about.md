@@ -33,10 +33,6 @@ I am looking for postdoc opportunities.
 
 The general theme of my research is **reasoning** with **data**, with special interests in *logic on graphs*, *language models*, *optimal transport*, and *AI for sciences*.
 
-<!---
-{% include figure.html path="assets/img/research-overview.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-(Click the image to zoom in, better with large screen)
--->
 #### First-order reasoning on KG
 During my PhD, I study graph problems justified by the first-order language.
 
