@@ -63,29 +63,29 @@ $$(\text{Reason}, \text{Data}) = (\text{Single Predicate}, \text{Multimodal data
 
 <details open>
   <summary> Shallow reasoning by data modeling </summary>
-  ✨ My recent interest focuses on modeling of molecule graphs. (arXiv:2310.03152)
+  ✨ My recent interest includes on modeling of molecule graphs. (arXiv:2310.03152)
   <div style="margin-left: 40px">
     <details>
     <summary>The predicate <ins> IsLabelOf </ins> (supervised learning)</summary>
     <ul>
-      <li>Understand deep learning tricks [arXiv:2010.12648]</li>
-      <li>Design neural heuristics for application [AJODO'23]</li>
+      <li>Understanding deep learning tricks [arXiv:2010.12648]</li>
+      <li>Designing neural heuristics for applications [AJODO'23, JORC'23]</li>
       <li>Compressing deep neural networks [ICML'23]</li>
     </ul>
     </details>
     <details>
       <summary>The predicate <ins> IsLatentCodeOf </ins> (unsupervised learning)</summary>
     <ul>
-      <li>Understand the variational auto encoder [NeurIPS'22]</li>
-      <li>Modeling complex encoding/decoding process [VTC'21]</li>
-      <li>Let learning help hardware design [ICCT'21]</li>
+      <li>Understanding the variational auto encoder [NeurIPS'22]</li>
+      <li>Modeling temporal encoding/decoding process [VTC'21]</li>
+      <li>ML for hardware design [ICCT'21]</li>
     </ul>
     </details>
     <details>
       <summary>The predicate <ins> IsSameDistribution </ins> (optimal transport)</summary>
     <ul>
       <li>Efficient algorithms [JSC'23,CSIAM-AM'23,CMS'22]</li>
-      <li>Application to word vectors [ACL'20, EMNLP'20, COLING'22]</li>
+      <li>Application to point cloud alignment [ACL'20, EMNLP'20, COLING'22]</li>
       <li>Application to cross-domain recommendation [CIKM'22]</li>
     </ul>
     </details>
@@ -96,7 +96,8 @@ $$(\text{Reason}, \text{Data}) = (\text{Single Predicate}, \text{Multimodal data
 
 ## Academic services
 - Conference Reviewer:
-  CVPR 2023; EMNLP 2021, 2022, 2023; ACL 2023; KDD 2023; CIKM 2023; NeurIPS 2023; NeurIPS dataset & benchmark 2023; ICLR 2024; AAAI 2024
+  - NLP: EMNLP 2021, 2022, 2023; ACL 2023; ARR (ACL, EACL, NAACL) 2024;
+  - Others: CVPR 2023; KDD 2023; CIKM 2023; NeurIPS 2023; NeurIPS dataset & benchmark 2023; ICLR 2024; AAAI 2024
 - Journal Reviewer: TNNLS, Information Fusion, DMLR
 
 <br/><br/>
