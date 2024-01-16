@@ -95,8 +95,8 @@ $$(\text{Reason}, \text{Data}) = (\text{Single Predicate}, \text{Multimodal data
 ## Academic services
 - Conference Reviewer:
   - NLP: EMNLP 2021 - 2023; ACL 2023 - 2024; EACL 2024, NAACL 2024;
-  - ML: NeurIPS 2023; NeurIPS dataset & benchmark 2023; ICLR 2024; ICML 2024.
-  - Others: CVPR 2023; KDD 2023; CIKM 2023;  AAAI 2024
+  - ML: ICLR 2024; ICML 2024; NeurIPS 2023; NeurIPS dataset & benchmark 2023.
+  - Others: AAAI 2024; CVPR 2023; KDD 2023 - 2024; CIKM 2023;
 - Journal Reviewer: TNNLS, Information Fusion, DMLR
 
 <br/><br/>
