@@ -8,8 +8,8 @@ subtitle:
 profile:
   align: right
   image: mypic.jpeg
-  # address: University Center 101, HKUST, Clear Water Bay
-  more_info: Room 1111, Thomas M. Siebel Center for Computer Science, UIUC.
+  more_info: University Center 101, HKUST, Clear Water Bay
+  # more_info: Room 1111, Thomas M. Siebel Center for Computer Science, UIUC.
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
