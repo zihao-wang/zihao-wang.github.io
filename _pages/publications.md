@@ -21,17 +21,18 @@ Please check my
 page for the full publication list including preprints.
 
 - [Machine Learning, Knowledge Representation, and Reasoning](#machine-learning-knowledge-representation-and-reasoning)
-- [Other works in mathematical, medical, and physical science](#other-works-in-mathematical-medical-and-physical-science)
+- [Other works in mathematical, medical, and physical sciences](#other-works-in-mathematical-medical-and-physical-sciences)
 - [Preprints](#preprints)
 - [Earlier works](#earlier-works)
 
+The notations for equal contributions are omitted.
 
 #### Machine Learning, Knowledge Representation, and Reasoning
 <div class="publications">
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[visable=1]%}
 </div>
 
-#### Other works in mathematical, medical, and physical science
+#### Other works in mathematical, medical, and physical sciences
 <div class="publications">
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[visable=2]%}
 </div>
