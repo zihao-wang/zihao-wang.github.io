@@ -33,6 +33,8 @@ I am looking for postdoc opportunities.
 
 The general theme of my research is **reasoning** with **data**, with special interests in *logic on graphs*, *language models*, *optimal transport*, and *AI for sciences*.
 
+<details><summary><h3>Summary at the end of 2023</h3></summary>
+
 {% include figure.html path="assets/img/research-overview.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 #### First-order reasoning on KG
@@ -90,6 +92,8 @@ $$(\text{Reason}, \text{Data}) = (\text{Single Predicate}, \text{Multimodal data
     </ul>
     </details>
   </div>
+</details>
+
 </details>
 
 <br/><br/>
