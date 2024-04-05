@@ -23,8 +23,6 @@ I am Zihao Wang （王子豪）, a Ph.D. candidate from [CSE department](https:/
 
 From Aug. 2023 to Jan. 2024, I visited the IDEA lab @ UIUC, under the supervision of [Prof. Hanghang Tong](http://tonghanghang.org/).
 
-I am looking for postdoc opportunities.
-
 <br/><br/>
 
 ---
@@ -33,7 +31,8 @@ I am looking for postdoc opportunities.
 
 The general theme of my research is **reasoning** with **data**, with special interests in *logic on graphs*, *language models*, *optimal transport*, and *AI for sciences*.
 
-<details><summary><h3>Summary at the end of 2023</h3></summary>
+Summary at the end of 2023
+<details><summary>(click to expand)</summary>
 
 {% include figure.html path="assets/img/research-overview.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
