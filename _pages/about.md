@@ -103,7 +103,7 @@ $$(\text{Reason}, \text{Data}) = (\text{Single Predicate}, \text{Multimodal data
   - NLP: EMNLP 2021 - 2024; ACL 2023 - 2024; EACL 2024; NAACL 2024 - 2025;
   - ML: ICLR 2024 - 2025; ICML 2024; NeurIPS 2023 - 2024; NeurIPS dataset & benchmark 2023 - 2024.
   - AI & Data Mining: AAAI 2024 - 2025; CVPR 2023; KDD 2023 - 2024; CIKM 2023;
-- Journal Reviewer: TNNLS, TASLP, TIST, Information Fusion, DMLR, CSIAM Transaction on Applied Mathematics
+- Journal Reviewer: TNNLS, TASLP, TIST, TIP, Information Fusion, DMLR, CSIAM Transaction on Applied Mathematics
 
 <br/><br/>
 
