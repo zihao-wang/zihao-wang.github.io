@@ -32,9 +32,9 @@ From Aug. 2023 to Jan. 2024, I visited the IDEA lab @ UIUC under the supervision
 My new research interest is the measurement of interconnected data.
 
 ### Summary at the end of 2023
-The general theme of my research is **reasoning** with **data**, with special interests in *logic on graphs*, *language models*, *optimal transport*, and *AI for sciences*.
 
 <details><summary>(click to expand)</summary>
+The general theme of my research is **reasoning** with **data**, with special interests in *logic on graphs*, *language models*, *optimal transport*, and *AI for sciences*.
 
 {% include figure.html path="assets/img/research-overview.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
