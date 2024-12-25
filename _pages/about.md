@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 ## Bibliography
 
-I am Zihao Wang （王子豪）, a Ph.D. candidate from [CSE department](https://cse.hkust.edu.hk/), [HKUST](https://hkust.edu.hk/) since Sept. 2020. My advisor is [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). I obtained my master's degree in [Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) in 2020 with [Prof. Yong Zhang](https://dagege.github.io/), my primary bachelor's degree in [Energy and Power Engineering](https://www.depe.tsinghua.edu.cn/depeen/) in 2017, and my secondary bachelor's degree in [Pure and Applied Mathematics](https://math.tsinghua.edu.cn) in 2018 with [Prof. Hao Wu](https://haowu1983.github.io), all from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm).
+I am Zihao Wang （王子豪）, a final year Ph.D. candidate from [CSE department](https://cse.hkust.edu.hk/), [HKUST](https://hkust.edu.hk/) since Sept. 2020. My advisor is [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). I obtained my master's degree in [Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) in 2020 with [Prof. Yong Zhang](https://dagege.github.io/), my primary bachelor's degree in [Energy and Power Engineering](https://www.depe.tsinghua.edu.cn/depeen/) in 2017, and my secondary bachelor's degree in [Pure and Applied Mathematics](https://math.tsinghua.edu.cn) in 2018 with [Prof. Hao Wu](https://haowu1983.github.io), all from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm).
 
 From Aug. 2023 to Jan. 2024, I visited the IDEA lab @ UIUC under the supervision of [Prof. Hanghang Tong](http://tonghanghang.org/).
 
@@ -29,9 +29,10 @@ From Aug. 2023 to Jan. 2024, I visited the IDEA lab @ UIUC under the supervision
 
 ## Research interests
 
-The general theme of my research is **reasoning** with **data**, with special interests in *logic on graphs*, *language models*, *optimal transport*, and *AI for sciences*.
+My new research interest is the measurement of interconnected data.
 
 ### Summary at the end of 2023
+The general theme of my research is **reasoning** with **data**, with special interests in *logic on graphs*, *language models*, *optimal transport*, and *AI for sciences*.
 
 <details><summary>(click to expand)</summary>
 
