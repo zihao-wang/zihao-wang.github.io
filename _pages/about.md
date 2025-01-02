@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: mypic.jpeg
+  image: IMG_5331.jpeg
   more_info: University Center 101, HKUST, Clear Water Bay
   # more_info: Room 1111, Thomas M. Siebel Center for Computer Science, UIUC.
 
