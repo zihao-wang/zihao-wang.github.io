@@ -29,7 +29,7 @@ From Aug. 2023 to Jan. 2024, I visited the IDEA lab @ UIUC under the supervision
 
 ## Research interests
 
-My new research interest is the measurement of interconnected data.
+My new research interest is mathematical measurement of graphs.
 
 ### Summary at the end of 2023
 
