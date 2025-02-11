@@ -29,16 +29,16 @@ From Aug. 2023 to Jan. 2024, I visited the IDEA lab @ UIUC under the supervision
 
 ## Research interests
 
-My new research interest is graph measurement.
+I am interested in the theory and algorithms of the general measurement of large graphs.
 
 ## Academic services
 - Area Char:
   - ARR: Since Feb 2025
 - Conference Reviewer:
-  - NLP: EMNLP 2021 - 2024; ACL 2023 - 2024; EACL 2024; NAACL 2024 - 2025;
+  - NLP (ARR): EMNLP 2021 - 2024; ACL 2023 - 2024; EACL 2024; NAACL 2024 - 2025;
   - ML: ICLR 2024 - 2025; ICML 2024 - 2025; NeurIPS 2023 - 2024; NeurIPS dataset & benchmark 2023 - 2024.
-  - AI & Data Mining: AAAI 2024 - 2025; CVPR 2023; KDD 2023 - 2025; CIKM 2023;
-- Journal Reviewer: TNNLS, TASLP, TIST, TIP, Information Fusion, DMLR, CSIAM Transaction on Applied Mathematics
+  - AI & Data Mining: AAAI 2024 - 2025; CVPR 2023; CIKM 2023; KDD 2023 - 2025;
+- Journal Reviewer: TNNLS, TASLP, TIST, TIP, Information Fusion, JSC, DMLR, CSIAM Transaction on Applied Mathematics
 
 <br/><br/>
 
