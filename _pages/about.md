@@ -31,7 +31,6 @@ Currently, I conduct some research independently, albeit slowly, with my persona
 
 I earned the PhD degree from the [CSE department](https://cse.hkust.edu.hk/), [HKUST](https://hkust.edu.hk/) in May 2025, under the supervision of [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). Before that, I obtained my master's degree in [Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) in 2020 with [Prof. Yong Zhang](https://dagege.github.io/), my bachelor's degree in [Energy and Power Engineering](https://www.depe.tsinghua.edu.cn/depeen/) in 2017, and my secondary bachelor's degree in [Pure and Applied Mathematics](https://math.tsinghua.edu.cn), all from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm).
 
-
 Please check my
 <a href="https://scholar.google.com/citations?user=T28rR00AAAAJ" target="_blank">
 <i class="ai ai-google-scholar"></i>
