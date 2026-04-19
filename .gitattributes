@@ -1,0 +1,6 @@
+# Normalize text files for cross-platform collaboration
+* text=auto eol=lf
+
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf

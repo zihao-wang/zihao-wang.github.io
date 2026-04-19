@@ -1,0 +1,72 @@
+name: Public Knowledge · Quartz deploy
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [pkm-push]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mnemos-pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout pkm (private knowledge vault)
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository_owner }}/pkm
+          token: ${{ secrets.PKM_DEPLOY_TOKEN }}
+          path: pkm
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Vendor Quartz v4 (upstream)
+        env:
+          QUARTZ_BRANCH: v4
+        run: |
+          git clone --depth 1 --branch "${QUARTZ_BRANCH}" https://github.com/jackyzha0/quartz.git /tmp/quartz-build
+
+      - name: Apply MNEMOS Quartz configuration
+        env:
+          SITE_BASE_URL: ${{ vars.SITE_BASE_URL || 'zihao-wang.github.io' }}
+        run: |
+          set -euo pipefail
+          cp pkm/quartz/quartz.config.ts /tmp/quartz-build/quartz.config.ts
+          SAFE_SITE="${SITE_BASE_URL:-}"
+          sed -i "s|__MNEMOS_SITE_BASE_URL__|${SAFE_SITE}|g" /tmp/quartz-build/quartz.config.ts
+
+      - name: Stage published notes into Quartz content
+        env:
+          QUARTZ_CONTENT_DIR: /tmp/quartz-build/content
+        run: |
+          export GITHUB_WORKSPACE=$(pwd)/pkm
+          python3 pkm/.github/scripts/filter_publish.py
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install Quartz dependencies
+        working-directory: /tmp/quartz-build
+        run: npm ci
+
+      - name: Build Quartz site
+        working-directory: /tmp/quartz-build
+        run: npx quartz build --directory content --output public
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: /tmp/quartz-build/public
+          force_orphan: true

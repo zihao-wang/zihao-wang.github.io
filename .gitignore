@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+
+.quartz-build/
+public-out/
+node_modules/
+.quartz-cache/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
