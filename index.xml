@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Zihao Wang</title>
+      <link>https://zihao-wang.github.io</link>
+      <description>Last 10 notes on Zihao Wang</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Blog</title>
+    <link>https://zihao-wang.github.io/blog/</link>
+    <guid>https://zihao-wang.github.io/blog/</guid>
+    <description><![CDATA[ Random thoughts, longer than a tweet but shorter than a paper. Subscribe via RSS. ]]></description>
+    <pubDate>Thu, 30 Apr 2026 02:07:29 GMT</pubDate>
+  </item><item>
+    <title>Zihao Wang</title>
+    <link>https://zihao-wang.github.io/</link>
+    <guid>https://zihao-wang.github.io/</guid>
+    <description><![CDATA[ Currently, I work in a start-up hedge fund in HKSAR. And I try to finish two or three research essays annually. ]]></description>
+    <pubDate>Thu, 30 Apr 2026 02:07:29 GMT</pubDate>
+  </item><item>
+    <title>Colophon</title>
+    <link>https://zihao-wang.github.io/about</link>
+    <guid>https://zihao-wang.github.io/about</guid>
+    <description><![CDATA[ This site is built from plain Markdown notes in a private Git repository. ]]></description>
+    <pubDate>Thu, 30 Apr 2026 02:07:29 GMT</pubDate>
+  </item><item>
+    <title>A Quick Note on Entropy</title>
+    <link>https://zihao-wang.github.io/blog/a-quick-note-on-entropy</link>
+    <guid>https://zihao-wang.github.io/blog/a-quick-note-on-entropy</guid>
+    <description><![CDATA[ Entropy is one of those concepts that shows up everywhere — information theory, thermodynamics, machine learning — and the math is surprisingly compact. ]]></description>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
